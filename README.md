@@ -1,6 +1,8 @@
 # IndoTalentOnline
-IndoTalent Android App
+IndoTalent Android App developed using java - android studio
 
 This app is a Talented FootBall Player Recruitment App
 
 Developer : Antonius (www.indodev.asia)
+
+developed 2019
